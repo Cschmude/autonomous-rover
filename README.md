@@ -90,17 +90,6 @@ data, analysis, and CAD documentation.
 
 ---
 
-## Repository Structure
-autonomous-rover/
-├── hardware/          # Wiring diagrams and build photos
-├── software/          # Python source code
-├── data/              # CSV logs from test runs
-├── analysis/          # Matplotlib plots and written analysis
-├── cad/               # Onshape exports and renders
-└── README.md
-
----
-
 ## Background
 
 I'm an incoming Mechanical Engineering student at Milwaukee 
